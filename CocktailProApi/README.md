@@ -15,4 +15,4 @@ My project uses the *free Json API* from [CocktailDB](https://thecocktaildb.com/
 * Suggest to the webmaster any cocktail in particular to include.
  
 
-* **Repo**: https://github.com/Matteriel-Git/CocktailMaker
+* **Repo**: https://github.com/Matteriel-Git/TheCocktailPro
